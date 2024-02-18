@@ -11,7 +11,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 
 ## Overview
-  Taking a challenge fron frontend mentor and completing
+  Completed a challenge of building a QR code card project with using HTML and custom CSS
 
 ### Screenshot
 
